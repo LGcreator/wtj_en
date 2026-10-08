@@ -92,16 +92,16 @@ Whenever the characters quote Lord Wald’s description, I have to leave out the
 
 2) Superscript was added in cases where the written word and its alternate reading did not match. In the text, it is generally used to highlight the difference between what a character says/thinks and what they actually mean. For example:
 
-<img width="1365" height="767" alt="Screenshot 2026-10-08 221831" src="https://github.com/user-attachments/assets/dc91f11f-300b-48ce-9c98-637dbf471bc4" />
+<img width="1365" height="767" alt="Screenshot 2026-10-09 035733" src="https://github.com/user-attachments/assets/05eb33c6-5701-49b9-9191-36a9230fb5a4" />
 <img width="2304" height="1295" alt="xtP+zw" src="https://github.com/user-attachments/assets/62532141-39b8-41bb-92b5-c444211d66ff" />
 
 **Technical details**
 
 The patch I provided is only compatible with the Windows Steam release of the game.
 
-The backup files are for the Japanese version. There's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
+I added the Japanese version as a back up. It turned out to be so easy that I thought I might as well. But there's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
 
-You need to change the game's setting to your intended language (Manage -> Properties -> General) then browse local files (go to WTJ_Data) and replace their version of sharedassets0.assets with mine.
+To apply the patch, you need to change the game's setting to your intended language (Manage -> Properties -> General) then browse local files (go to WTJ_Data) and replace their version of sharedassets0.assets with mine.
 
 Most of the UI and images remain untranslated because I don’t have the skills necessary to edit them. However, they’re fairly intuitive, so I don’t think this will be a major issue.  To be honest, even if could edit the images, it wouldn't look great.
 
