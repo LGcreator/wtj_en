@@ -101,6 +101,8 @@ The patch I provided is only compatible with the Windows Steam release of the ga
 
 The backup files are for the Japanese version. There's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
 
+You need to change the game's setting to your intended language (Manage -> Properties -> General) then browse local files (go to WTJ_Data) and replace their version of sharedassets0.assets with mine.
+
 Most of the UI and images remain untranslated because I don’t have the skills necessary to edit them. However, they’re fairly intuitive, so I don’t think this will be a major issue.  To be honest, even if could edit the images, it wouldn't look great.
 
 <img width="2048" height="1152" alt="v++FJf" src="https://github.com/user-attachments/assets/9a7c2ede-7c0a-4300-b754-b4954f9b06bc" />
