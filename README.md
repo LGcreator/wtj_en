@@ -1,4 +1,4 @@
-All rights belong to Tetrascope.
+All rights belong to TetraScope.
 This project does NOT provide the user with the copy of the game. It is merely a way to add the English script to the files and make the system read it.
 
 **Game Overview**
