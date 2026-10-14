@@ -97,11 +97,9 @@ Whenever the characters quote Lord Wald’s description, I have to leave out the
 
 **Technical details**
 
-The patch I provided is only compatible with the Windows Steam release of the game.
+The patch I provided is only compatible with the Windows Steam release of the game. IT WILL NOT WORK WITH THE FREEM RELEASE OF THE GAME THEY WERE MADE IN DIFFERENT ENGINES.
 
-I added the Japanese version as a back up. It turned out to be so easy that I thought I might as well. But there's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
-
-To apply the patch, you need to change the game's setting to your intended language (Manage -> Properties -> General) then browse local files (go to WTJ_Data) and replace their version of sharedassets0.assets with mine.
+I made my patch work with the Japanese language option as well. It turned out to be so easy that I thought I might as well. But there's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
 
 Most of the UI and images remain untranslated because I don’t have the skills necessary to edit them. However, they’re fairly intuitive, so I don’t think this will be a major issue.  To be honest, even if could edit the images, it wouldn't look great.
 
@@ -122,3 +120,12 @@ Her name isn’t voiced regardless of input, but she is referred to as Nozomi in
 **For streamers / youtubers**
 
 The developers have given permission to stream the main game content with the exception of the fan book.  Additionally, they requested to not use spoilery cgs on thumbnails (see 6th question in https://wataju.net/help.html).
+
+**Install instructions**
+
+See technical details for why I recommend the CN version.
+
+You need to change the game's settings to your target language (Manage -> Properties -> General) then browse local files (go to WTJ_Data) and replace their version of sharedassets0.assets with mine.
+<img width="606" height="360" alt="inst2" src="https://github.com/user-attachments/assets/08a838c7-d255-4afe-8e7d-57b56632c31e" />
+<img width="419" height="486" alt="inst1" src="https://github.com/user-attachments/assets/03c9ec5d-7b30-40bf-9982-4d23aff1afe4" />
+
