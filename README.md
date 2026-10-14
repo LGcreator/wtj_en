@@ -97,7 +97,7 @@ Whenever the characters quote Lord Wald’s description, I have to leave out the
 
 **Technical details**
 
-The patch I provided is only compatible with the Windows Steam release of the game. IT WILL NOT WORK WITH THE FREEM RELEASE OF THE GAME THEY WERE MADE IN DIFFERENT ENGINES.
+The patch I provided is only compatible with the Windows Steam release of the game. IT WILL NOT WORK WITH THE FREEM RELEASE OF THE GAME BECAUSE THEY WERE BUILT USING DIFFERENT GAME ENGINES.
 
 I made my patch work with the Japanese language option as well. It turned out to be so easy that I thought I might as well. But there's no real reason to use it over the Chinese one; in fact, you'd miss out on Shun's additional story and CG. 
 
